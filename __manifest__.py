@@ -12,7 +12,7 @@
         'views/task_view.xml',
     ],
     'assets': {
-        # 'web.assets_backend': ['todo_management\static\src\css\task.css']
+        
     },
 
     'application' : True,

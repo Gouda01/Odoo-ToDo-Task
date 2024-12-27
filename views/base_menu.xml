@@ -1,0 +1,18 @@
+<odoo>
+    <menuitem
+        id = "todo_management_root_menu"
+        name = "ToDo"
+    />
+
+    <menuitem
+        id = "tasks_menu"
+        name = "Tasks"
+        parent = "todo_management_root_menu"
+    />
+
+    <menuitem
+        id = "configration_menu"
+        name = "Configration"
+        parent = "todo_management_root_menu"
+    />
+</odoo>
